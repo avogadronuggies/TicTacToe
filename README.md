@@ -1,3 +1,3 @@
 TicTacToe Game using HTML,CSS and JS
 Implementation of bestmove algorithm for PvC
-Link-https://avogadronuggies.github.io/TicTacToe/
+[Link](https://tic-tac-toe-kappa-inky.vercel.app/)
